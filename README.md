@@ -1,1 +1,1 @@
-# Angular Tic-Tac-Toe PWA
+# Angular Tic-Tac-Toe
